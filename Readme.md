@@ -4,7 +4,7 @@
 
 * npm install
 * npm run dev
-* 配置hosts
+* 配置hosts(需打开默认)
 
 ```
 127.0.0.1 x.stuq.com
@@ -26,3 +26,10 @@
 * [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
 * [XMLHTTPRequest](https://developer.mozilla.org/zh-CN/docs/Web/API/XMLHttpRequest)
 * [window.postMessage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/postMessage)
+
+# notes
+
+1. html跨域 y跨域x
+2. can i use 查询兼容性
+视频看到1:26:59 
+iframe跨域3 4 复习看
